@@ -1,0 +1,11 @@
+body{
+    background: #cccccc;
+}
+p{
+    text-align: center;
+}
+
+/* NAVEGADOR VAI PROCURAR TODOS OS strong QUE ESTÃO DENTRO DOS em */
+em strong{
+    color: red;
+}
