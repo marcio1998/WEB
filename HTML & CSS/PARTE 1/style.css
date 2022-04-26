@@ -1,11 +1,53 @@
 body{
-    background: #cccccc;
+    /* background: #cccccc; */
 }
+
+#banner{
+    width: 100%;
+}
+
+.principal{
+    background: #cccccc;
+    padding: 30px;
+}
+
+.titulo-principal{
+    padding-left: 20px;
+}
+.titulo-centralizado{
+    text-align: center;
+}
+
 p{
     text-align: center;
+}
+
+#missao{
+    font-size: 20px;
 }
 
 /* NAVEGADOR VAI PROCURAR TODOS OS strong QUE ESTÃO DENTRO DOS em */
 em strong{
     color: red;
 }
+
+.beneficios{
+    background: #FFFFFF;
+    padding: 20px;
+} 
+
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+.itens{
+    font-style: italic;
+}
+
+.imagem-beneficios{
+    width: 50%;
+}
+
